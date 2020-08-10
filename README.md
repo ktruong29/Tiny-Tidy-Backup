@@ -5,7 +5,7 @@ script. The goal is to create a script where a source directory is specified
 and it is backed up to a destination directory as a tar archive. The script will
 process command line options and have an option to write the backup to a remote
 computer via ssh
----
+
 The script should do the following:
 The script shall accept a source directory, a destination directory, and
 process any command line options.
